@@ -1,4 +1,4 @@
-print("Rollercoster user verification")
+print("Rollercoaster user verification")
 height=int(input("Enter your height in cm   "))
 bill = 0
 
